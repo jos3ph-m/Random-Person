@@ -16,10 +16,15 @@ function App() {
   const [value, setValue] = useState('random person');
 
   const handleValue = (e) => {
-    console.log(e);
+    console.log(e.target);
   };
 
-  return <h2>random user starter</h2>;
+  return (
+    <main>
+      <div className="block bcg-black"></div>
+      <div className="block"></div>
+    </main>
+  );
 }
 
 export default App;
