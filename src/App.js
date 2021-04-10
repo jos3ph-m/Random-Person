@@ -15,6 +15,10 @@ function App() {
   const [title, setTitle] = useState('name');
   const [value, setValue] = useState('random person');
 
+  const handleValue = (e) => {
+    console.log(e);
+  };
+
   return <h2>random user starter</h2>;
 }
 
