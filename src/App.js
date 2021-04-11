@@ -65,10 +65,10 @@ function App() {
             </button>
             <button
               className="icon"
-              data-label="name"
+              data-label="password"
               onMouseOver={handleValue}
             >
-              <FaUser />
+              <FaLock />
             </button>
           </div>
         </div>
