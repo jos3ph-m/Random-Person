@@ -51,10 +51,10 @@ function App() {
             </button>
             <button
               className="icon"
-              data-label="name"
+              data-label="street"
               onMouseOver={handleValue}
             >
-              <FaUser />
+              <FaMap />
             </button>
             <button
               className="icon"
