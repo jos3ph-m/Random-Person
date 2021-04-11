@@ -31,7 +31,9 @@ function App() {
           />
           <p className="user-title">my {title} is</p>
           <p className="user-value">{value}</p>
-          <div className="values-list"></div>
+          <div className="values-list">
+            <button className="icon"></button>
+          </div>
         </div>
       </div>
     </main>
