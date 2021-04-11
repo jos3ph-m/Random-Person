@@ -44,7 +44,7 @@ function App() {
               data-label="email"
               onMouseOver={handleValue}
             >
-              <FaUser />
+              <FaEnvelopeOpen />
             </button>
             <button
               className="icon"
