@@ -36,7 +36,9 @@ function App() {
               className="icon"
               data-label="name"
               onMouseOver={handleValue}
-            ></button>
+            >
+              <FaUser />
+            </button>
           </div>
         </div>
       </div>
