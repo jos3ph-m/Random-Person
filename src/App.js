@@ -71,6 +71,7 @@ function App() {
               <FaLock />
             </button>
           </div>
+          <button className="btn" type="button"></button>
         </div>
       </div>
     </main>
