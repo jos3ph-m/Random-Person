@@ -39,6 +39,41 @@ function App() {
             >
               <FaUser />
             </button>
+            <button
+              className="icon"
+              data-label="email"
+              onMouseOver={handleValue}
+            >
+              <FaUser />
+            </button>
+            <button
+              className="icon"
+              data-label="name"
+              onMouseOver={handleValue}
+            >
+              <FaUser />
+            </button>
+            <button
+              className="icon"
+              data-label="name"
+              onMouseOver={handleValue}
+            >
+              <FaUser />
+            </button>
+            <button
+              className="icon"
+              data-label="name"
+              onMouseOver={handleValue}
+            >
+              <FaUser />
+            </button>
+            <button
+              className="icon"
+              data-label="name"
+              onMouseOver={handleValue}
+            >
+              <FaUser />
+            </button>
           </div>
         </div>
       </div>
