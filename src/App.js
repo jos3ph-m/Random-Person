@@ -58,10 +58,10 @@ function App() {
             </button>
             <button
               className="icon"
-              data-label="name"
+              data-label="phone"
               onMouseOver={handleValue}
             >
-              <FaUser />
+              <FaPhone />
             </button>
             <button
               className="icon"
