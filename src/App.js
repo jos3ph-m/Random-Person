@@ -24,6 +24,7 @@ function App() {
     const {
       login: { password },
     } = person;
+    const { first, last } = person.name;
   };
 
   useEffect(() => {
